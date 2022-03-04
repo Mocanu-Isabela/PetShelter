@@ -1,0 +1,4 @@
+C:/Users/Isabela/Desktop/GitHub/proiecte/a89-IsabelaMocanu915-PetShelter/cmake-build-debug/CMakeFiles/a89_IsabelaMocanu915_PetShelter.dir
+C:/Users/Isabela/Desktop/GitHub/proiecte/a89-IsabelaMocanu915-PetShelter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Isabela/Desktop/GitHub/proiecte/a89-IsabelaMocanu915-PetShelter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Isabela/Desktop/GitHub/proiecte/a89-IsabelaMocanu915-PetShelter/cmake-build-debug/CMakeFiles/a89_IsabelaMocanu915_PetShelter_autogen.dir
