@@ -7,4 +7,4 @@ Each Dog has a *breed*, a *name*, an *age* and a *photograph*. The photograph is
 
 - **User mode**: the user can choose one or more dogs to adopt and see the adoption list as a CSV or HTML file.
 
-The GUI was made with QT, so you have to install Qt to be able to run this application.
+The GUI was made with Qt, so you have to install Qt to be able to run this application.
